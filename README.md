@@ -1,4 +1,4 @@
-## Spring-Boot-Microservie-Ecommerce-App
+## Spring-Boot-Microservice-Ecommerce-App
 
 An eCommerce web application based on the microservices architecture built using Spring Boot which places the order based on the available stocks in Inventory.
 
